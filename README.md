@@ -3,7 +3,7 @@ Android Privacy Policy EcoDefense
 <html>
 <body>
 <h2>Privacy Policy</h2>
-<p>Emsyen Games built the[Eco Defense app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
+<p>Emsyen Games built the Eco Defense app as a [open source | free | freemium | ad-supported | commercial] app. This SERVICE is provided by [Individual or company name] [at no cost] and is intended
     for use as is.</p>
 <p>This page is used to inform website visitors regarding [my|our] policies with the collection, use, and
     disclosure of Personal Information if anyone decided to use [my|our] Service.</p>
