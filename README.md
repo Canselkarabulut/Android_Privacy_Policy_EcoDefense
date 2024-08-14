@@ -1,4 +1,4 @@
-# Android_Privacy_Policy_EcoDefense
+# Android_Privacy_Policy
 Android Privacy Policy EcoDefense
 <html>
 <body>
